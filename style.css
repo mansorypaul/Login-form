@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300&display=swap');
+
+body {
+   background-color: #212F3C;
+   font-family: 'Cairo', sans-serif;
+}
+
+inp-one {
+}
+
+.inp-three {
+    position: relative;
+    left: 75px;
+}
+
+h1 {
+    font-family: 'Cairo', sans-serif;
+    color: white;
+    margin-left: 60px;
+    position: relative ;
+    top: 15px;
+}
+
+.inp-three {
+    border-color: #52BE80;
+    border-radius: 50px;
+    border: 2px solid #52BE80;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 220px;
+    padding-left: 89px;
+    padding-right: 89px;
+    font-weight: 100;
+    
+}
+
+.inp-two {
+    order-color: #52BE80;
+    border-radius: 5px;
+    border: 2px solid #52BE80;
+    padding: 15px;
+    text-decoration: none;
+    color: #99A3A4;
+    cursor: text;
+    padding-right: 60px;
+    position: relative;
+    left: 50px;
+    background-color: #212F3C;
+    bottom: 20px;
+}
+
+.inp-one {
+    order-color: #52BE80;
+    border-radius: 5px;
+    border: 2px solid #52BE80;
+    padding: 15px;
+    text-decoration: none;
+    color: #99A3A4;
+    cursor: text;
+    padding-right: 60px;
+    left: 135px;
+    margin-left: 50px;
+    background-color: #212F3C;
+}
+
+i {
+    position: relative ;
+    left: 210px;
+    color: #52BE80;
+    bottom: 177px;
+    font-size: 25px;
+    
+}
+
+h6 {
+    color: white;
+    position: relative ;
+    left: 215px;
+    bottom: 207px;
+}
+
+i:visited {
+    color: #212F3C;
+    
+}
+
+footer {
+    text-align: center;
+    position: relative ;
+    bottom: 50px;
+}
+
+.forgot {
+    text-decoration: none;
+    color: #52BE80;
+    position: relative ;
+    bottom: 60px;
+    text-align: center;
+}
+
+h4 {
+    color: white;
+    position: relative ;
+    bottom: 80px;
+    right: 25px;
+}
+
+.up {
+    text-decoration: none;
+    color: #52BE80;
+    position: relative ;
+    bottom: 132px;
+    left: 85px;
+}
